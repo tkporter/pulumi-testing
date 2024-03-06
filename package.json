@@ -1,0 +1,13 @@
+{
+    "name": "testing",
+    "main": "index.ts",
+    "devDependencies": {
+        "@types/node": "^18"
+    },
+    "dependencies": {
+        "@hyperlane-xyz/core": "^3.7.0",
+        "@hyperlane-xyz/utils": "^3.7.0",
+        "@pulumi/pulumi": "^3.0.0",
+        "ethers": "^5.7.2"
+    }
+}
